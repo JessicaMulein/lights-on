@@ -1,0 +1,20 @@
+# Generated website (built by build_site.py; deploy it, don't commit it)
+site/
+
+# macOS and Python clutter
+.DS_Store
+__pycache__/
+
+# iCloud/Finder conflict copies ("name 2.md", "_headers 2")
+* [0-9]
+* [0-9].*
+
+# Cloudflare wrangler cache (contains account details)
+.wrangler/
+
+# Demo audio lives outside git (hosted on the demo site); keep the files locally
+*.wav
+*.mp3
+
+# Private working notes (written to Jessica, not for the public repo)
+WORKING-NOTES.md
