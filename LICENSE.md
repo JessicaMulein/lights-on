@@ -33,5 +33,6 @@ It’s true. The names are changed; what happened isn’t. You may trim, cut, re
 - **The family that carried her was chosen, not blood.** Nora stays at the center.
 - **It’s funny.** The jokes sit right next to the grief, because that’s how she lived it.
 - **The lights stay on at the end, and the door stays open.**
+- There's always a chance that new technology/research can change the course of things, but as it stands in 2026 she is incurable and several years into a relatively short expected lifespan for iodine refractory metastatic papillary thyroid cancer. Ultimately, this is a story and detached from my life at this point, it has meaning beyond my life. Whether it ends exactly the way I predict is anyone's guess.
 
 If you’re unsure whether a change keeps the truth, ask my wife or me while we’re here, and whoever holds my rights after that. The test I’d use: would someone walking out of the theater know what actually happened to her? If yes, you kept it.
