@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the private website: the full libretto with a player at every song.
+"""Build the demo website: the full libretto with a player at every song.
 
 Run from this folder:  python3 build_site.py
 Writes:  site/  (index.html, audio/, fonts/, libretto.pdf) ready to upload to Cloudflare Pages.

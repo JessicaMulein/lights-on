@@ -21,7 +21,9 @@ It's a true story with the names changed. A girl hides who she is inside a borro
 
 ## Hear it
 
-Every number has a rough demo recording, made with AI music tools (Mozart AI and Suno) from the prompts in `AI Prompts/`. They're sketches to show the shape of each song, not finished recordings, and not the sound the show is meant to have. The audio isn't stored in this repository; it's hosted separately.
+**[The demo site](https://lights-on-musical.pages.dev/)** has the whole show on one page: the synopsis, then the libretto from the prologue to the finale, with a player at every song and a download of the PDF. At the top is a house with a window for every number (Act One upstairs, Act Two downstairs, and the front door lit at the end). A song's window lights up once you've played it, and "Turn all the lights off" starts you over.
+
+Every number has a rough demo recording, made with AI music tools (Mozart AI and Suno) from the prompts in `AI Prompts/`. They're sketches to show the shape of each song, not finished recordings, and not the sound the show is meant to have. The audio isn't stored in this repository; it lives on the demo site.
 
 ## Stage it
 
@@ -42,7 +44,7 @@ Some practical notes:
 - **`AI Prompts/`**: a tagged lyric and a style prompt for each number, ready to paste into Suno or Mozart AI (see its own README).
 - **`build_libretto.py`**: stitches the script and the stage lyrics into the libretto Markdown file. Don't edit the libretto directly; it's overwritten on every build.
 - **`build_pdf.py`**: the same libretto as a PDF, with a title page, a list of numbers with page numbers, and each act starting on a new page. Needs [pandoc](https://pandoc.org) and XeLaTeX (on a Mac: `brew install pandoc` plus BasicTeX or MacTeX).
-- **`build_site.py`**, **`site_src/`**: build a single-page demo website (the libretto with a player at every song, and a house of 41 windows that light up as you listen). It expects the demo audio next to the songs, which isn't included here.
+- **`build_site.py`**, **`site_src/`**: build a single-page demo website (the libretto with a player at every song, and a house of 41 windows that light up as you listen). It expects the demo audio next to the songs, which isn't included here. Needs the `markdown` package (`pip3 install markdown`).
 - **`Synopsis.md`**: the synopsis shown at the top of the site.
 
 To rebuild after editing: `python3 build_libretto.py`, then `python3 build_pdf.py`.
