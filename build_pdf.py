@@ -26,7 +26,9 @@ SPEAKER = re.compile(r"^([A-Z][A-Z0-9'’.\-]*(?: [A-Z0-9'’.\-]+)*(?: and [A-Z
 
 PREAMBLE = r"""
 \usepackage{newunicodechar}
-\newfontfamily\symbolfont{DejaVu Sans}
+\IfFontExistsTF{DejaVu Sans}{\newfontfamily\symbolfont{DejaVu Sans}}{%
+  \IfFontExistsTF{Apple Symbols}{\newfontfamily\symbolfont{Apple Symbols}}{%
+    \IfFontExistsTF{Arial Unicode MS}{\newfontfamily\symbolfont{Arial Unicode MS}}{\newcommand{\symbolfont}{}}}}
 \newunicodechar{♪}{{\symbolfont ♪}}
 \usepackage{titlesec}
 \titleformat{\section}[display]{\centering\normalfont}{}{0pt}{\Huge\scshape}
