@@ -3567,4 +3567,54 @@ It’s true. The names are changed; what happened isn’t. You may trim, cut, re
 - **The lights stay on at the end, and the door stays open.**  
 - There's always a chance that new technology/research can change the course of things, but as it stands in 2026 she is incurable and several years into a relatively short expected lifespan for iodine refractory metastatic papillary thyroid cancer. Ultimately, this is a story and detached from my life at this point, it has meaning beyond my life. Whether it ends exactly the way I predict is anyone's guess.  
 
-If you’re unsure whether a change keeps the truth, ask my wife or me while we’re here, and whoever holds my rights after that. The test I’d use: would someone walking out of the theater know what actually happened to her? If yes, you kept it.
+If you’re unsure whether a change keeps the truth, ask my wife or me while we’re here, and whoever holds my rights after that. The test I’d use: would someone walking out of the theater know what actually happened to her? If yes, you kept it.  
+
+---
+
+## Song registrations
+
+Every number is registered with ASCAP (Mulein Studios). Theaters can use these work IDs for performance reports and cue sheets.
+
+| # | Song | ASCAP work ID |
+|:--|:-----|:--------------|
+| P | I Left the Lights On (Prologue) | 940070363 |
+| 1 | Trainwreck | 940102965 |
+| 2 | The Mirror | 940103031 |
+| 3 | Louise | 940103063 |
+| 4 | Thirteen | 940103074 |
+| 5 | Keep Clear | 940103097 |
+| 6 | The Notebook | 940103124 |
+| 7 | Road Less Traveled | 940103146 |
+| 8 | June Snow | 940103167 |
+| 9 | The Party | 940103192 |
+| 10 | Giving Up | 940103211 |
+| 11 | Leah and the Boys | 940103239 |
+| 12 | Another Night | 940103260 |
+| 13 | Fluorescent Moon | 940103280 |
+| 14 | Ghost in the Machine | 940103304 |
+| 15 | The Winter Coat | 940103309 |
+| 16 | Ruth's Blessing | 940103313 |
+| 17 | Sport Coat at the Door | 940103336 |
+| 18 | Turns Out It's Genetic | 940103363 |
+| 19 | The Photograph | 940103388 |
+| 20 | Small Euphorias | 940103414 |
+| 21 | Curtains Up, World | 940103436 |
+| 22 | Open Source | 940103475 |
+| 23 | Silver Tongues | 940103502 |
+| 24 | Frozen in the Light | 940103525 |
+| 25 | Good Grief | 940103561 |
+| 26 | Spy in the Boys Club | 940103998 |
+| 27 | Javert in a Cubicle | 940104029 |
+| 28 | Alive in the Breeze | 940104048 |
+| 29 | The Crossing | 940104072 |
+| 30 | Six Month Bites | 940104101 |
+| 31 | Fine, How Are You? | 940104116 |
+| 32 | Lawyer Up, Hit the Gym | 940104131 |
+| 33 | We Take Turns | 940104144 |
+| 34 | Hope | 940104166 |
+| 35 | Before I Broke | 940104180 |
+| 36 | Break Me | 940104201 |
+| 37 | Highly Capable | 940104215 |
+| 38 | Unspoken Cost | 940104226 |
+| 39 | Carry Me | 940104269 |
+| 40 | I Left the Lights On (Finale) | 940104317 |

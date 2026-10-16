@@ -150,7 +150,9 @@ def front_matter(numbers):
 def main():
     bl.main()                                   # keep the .md libretto in step
     body, numbers = assemble()
-    md = front_matter(numbers) + "\n".join(body) + "\n"
+    reg = bl.registry_block()
+    tail = (latex(r"\clearpage\begingroup\small\renewcommand{\arraystretch}{0.85}") + "\n" + reg + "\n" + latex(r"\endgroup")) if reg else ""
+    md = front_matter(numbers) + "\n".join(body) + "\n" + tail
     with tempfile.TemporaryDirectory() as tmp:
         tmp = Path(tmp)
         (tmp / "libretto.md").write_text(md, encoding="utf-8")
